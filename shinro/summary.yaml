@@ -1,0 +1,8 @@
+name: "Summary Performance Report"
+style:
+  decimal_places: 2
+content:
+  # Do not change these entries in any way, the IDE extension references them.
+  cycles : Total Cycles Consumed
+  cpu.core*.rob.stats.total_number_retired : Total Instructions Retired
+  cpu.core*.rob.stats.ipc : IPC

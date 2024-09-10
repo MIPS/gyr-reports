@@ -1,0 +1,8 @@
+{
+  "label": "Instruction Counts",
+  "description": "information for each instruction in the program",
+  "detail": "Includes execution counts percentages and distribution data for every instruction",
+  "tool": "stf_imem",
+  "parameters": "-S -l",
+  "output_format": "txt"
+}

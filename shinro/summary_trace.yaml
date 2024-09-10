@@ -1,0 +1,6 @@
+name: "Summary Performance Trace"
+style:
+  decimal_places: 3
+content:
+  cycles : Total Cycles Consumed
+  cpu.core*.rob.stats.ipc : IPC
